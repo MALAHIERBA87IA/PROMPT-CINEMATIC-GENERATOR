@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Prompt Builder",
+  "description": "Crea y personaliza prompts cinematográficos profesionales paso a paso con un formulario interactivo, previsualizador de monitor de cámara y traducción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
